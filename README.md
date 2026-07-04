@@ -10,7 +10,7 @@ lets say light A is 0.2 calculated and light b is 0.3 calculated on the backside
 is 0.2 + 0.3 /2 (number of lights) so 0.5 /2 = 2.5 total value and you would give each light half of it
 so each light would get 1.25 light value to it so it would add up to 2.5 total for that side 
 
-[here is a tech demo](https://sighthough.github.io/fast-light-and-shade-calculation-for-graphics/)
+(here is a tech demo)[https://sighthough.github.io/fast-light-and-shade-calculation-for-graphics/]
 idk if its done 100 percent right as i used ai for it but its something 
 feel free to rip anything you want from this its mit licensed 
 
