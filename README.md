@@ -15,4 +15,4 @@ idk if its done 100 percent right as i used ai for it but its something
 feel free to rip anything you want from this its mit licensed 
 also its pretty incomplete but feel free to contribute
 
-the tech demo was made using googles gemini 3.5 ai
+the tech demo was made using googles gemini 3.6 ai
